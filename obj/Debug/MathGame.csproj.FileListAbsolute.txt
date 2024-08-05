@@ -1,0 +1,13 @@
+D:\MyExpansions\MathGame\bin\Debug\MathGame.exe.config
+D:\MyExpansions\MathGame\bin\Debug\MathGame.exe
+D:\MyExpansions\MathGame\bin\Debug\MathGame.pdb
+D:\MyExpansions\MathGame\obj\Debug\MathGame.csprojAssemblyReference.cache
+D:\MyExpansions\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\MyExpansions\MathGame\obj\Debug\MathGame.exe
+D:\MyExpansions\MathGame\obj\Debug\MathGame.pdb
+C:\Users\Abdul\Desktop\Code\_MyProges\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\Abdul\Desktop\Code\_MyProges\MathGame\bin\Debug\MathGame.exe
+C:\Users\Abdul\Desktop\Code\_MyProges\MathGame\bin\Debug\MathGame.pdb
+C:\Users\Abdul\Desktop\Code\_MyProges\MathGame\obj\Debug\MathGame.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\Code\_MyProges\MathGame\obj\Debug\MathGame.exe
+C:\Users\Abdul\Desktop\Code\_MyProges\MathGame\obj\Debug\MathGame.pdb
